@@ -2,7 +2,8 @@
 
 This project generates upto 8 paraghraphs automatically for your use.
 
-This project is guided by John Smilga.
+#### Technologies used: HTML, CSS, React JS
 
-Technologies used: HTML, CSS, React JS
+###### This project is guided by John Smilga.
+
 
